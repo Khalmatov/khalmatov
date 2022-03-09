@@ -49,7 +49,7 @@
   
 - 👨‍💻 **Backend Developer**\
 📆 2021 - moment\
-📍 **Legres** - Saint-Petersburg/SPb, Russia
+📍 **Legres** - Saint-Petersburg, Russia
 
   ## Skills
 
