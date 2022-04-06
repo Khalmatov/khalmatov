@@ -57,18 +57,23 @@
 <img align="right" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" /> 
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat=square&logo=javascript&logoColor=black">
+<img align="right" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img align="right" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 
 **Languages**
  
-<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
 <img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
  
-**Frameworks/Libraries**
+**Backend**
+
+<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  
+**Frontend**
 
 <img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
