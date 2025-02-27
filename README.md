@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/khalmatov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/im_love_it">
+  <a href="https://t.me/aladdin4ik">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
@@ -21,10 +21,12 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/debian-red?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Radeon_RX_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-RTX_3600_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logoColor=white&logo=vim" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logoColor=white&logo=obsidian" />
 </p>
 
 <p align='center'>
@@ -41,23 +43,41 @@
   
   ## Experience
 
-<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
 <img align="right" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=fastapi" />
+<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   
-- 👨‍💻 **Backend Developer**\
-📆 2021 - moment\
+- 👨‍💻 **Junior Python Developer**\
+📆 2021 - 2022\
 📍 **Legres** - Saint-Petersburg, Russia
 
-  ## Skills
+<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img align="right" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=fastapi" />
+
+- 👨‍💻 **Middle Python Developer**\
+📆 2022 - 2024\
+📍 **MoneyCat** - Saint-Petersburg, Russia
+
+<img align="right" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=fastapi" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+- 👨‍💻 **Backend Developer**\
+📆 2025 - moment\
+📍 **MoneyCat** - Saint-Petersburg, Russia
+
+## Skills
 
 <img align="right" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" /> 
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img align="right" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 
@@ -71,7 +91,9 @@
 **Backend**
 
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+<img align="right" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=4FC08D" />
   
 **Frontend**
 
